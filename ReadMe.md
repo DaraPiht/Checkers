@@ -4,8 +4,11 @@
 
 ## Как запустить проект
 
-Скачиваем проекты [server](https://github.com/DaraPiht/Checkers/tree/master/Server) и [client1](https://github.com/DaraPiht/Checkers/tree/master/client1). Для их запуска у нас должен быть установлена среда разработки Visual Studio и подключена [библиотека SFML](https://www.sfml-dev.org/download/sfml/2.5.1/).
-
+Скачиваем проекты [server](https://github.com/DaraPiht/Checkers/tree/master/Server) и [client1](https://github.com/DaraPiht/Checkers/tree/master/client1). Для их запуска у нас должен быть установлена среда разработки Visual Studio и подключена библиотека SFML, как это сделать показанно далее:
+**1)** Для начала скачиваем библиотеку с [официального сайта](https://www.sfml-dev.org/download/sfml/2.5.1/).
+**2)** Затем распаковываем в любое место на нашем устройстве, чтобы мы помнили путь.
+**3)** Открываем скачанные проекты в Visual Studio.
+**4)** В проекте уже подключена библиотека, поэтому всё, что необходимо сделать это поменять путь к библиотеке. Заходим в **Проект>>Свойства>>С/С++>>Общие** и в **Дополнительных каталогах включаемых файлов** выбираем корректный путь до **SFML/include**.
 ## Проект готов к работе.  
     
 
