@@ -1,0 +1,8 @@
+﻿  Client1.cpp
+C:\Users\Dara\source\repos\client1\client1\Client1.cpp(86,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Dara\source\repos\client1\client1\Client1.cpp(86,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Dara\source\repos\client1\client1\Client1.cpp(319,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Dara\source\repos\client1\client1\Client1.cpp(319,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Dara\source\repos\client1\client1\Client1.cpp(324,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Dara\source\repos\client1\client1\Client1.cpp(324,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  client1.vcxproj -> C:\Users\Dara\source\repos\client1\x64\Debug\client1.exe
