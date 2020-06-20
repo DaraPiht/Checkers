@@ -4,7 +4,7 @@
 
 ## Как запустить проект
 
-Скачиваем файлы [server.cpp](https://github.com/DaraPiht/Checkers/blob/master/server.cpp) и [client.cpp](https://github.com/DaraPiht/Checkers/blob/master/client.cpp). Для их запуска у нас должен быть установлена среда разработки Visual Studio и подключена [библиотека SFML](https://www.sfml-dev.org/download/sfml/2.5.1/).
+Скачиваем проекты [server](https://github.com/DaraPiht/Checkers/tree/master/Server) и [client1](https://github.com/DaraPiht/Checkers/tree/master/client1). Для их запуска у нас должен быть установлена среда разработки Visual Studio и подключена [библиотека SFML](https://www.sfml-dev.org/download/sfml/2.5.1/).
 
 ## Проект готов к работе.  
     
